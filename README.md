@@ -6,7 +6,7 @@ If you have a crush or a partner and you would like to ask him/her to be your Va
 
 ## Installation
 
-You can just run the following package to install the app.
+To install the app, run the following command in your terminal:
 
 ```bash
 npm install
@@ -14,11 +14,13 @@ npm install
 
 ## Deployment
 
-[![Video Thumbnail](https://example.com/video_thumbnail.jpg)](https://www.canva.com/design/DAF8YUsH72U/C5oP-kxEq1m0_Lz7opCGyw/watch?utm_content=DAF8YUsH72U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel4)
+[![Video Thumbnail](https://raw.githubusercontent.com/estney/valentine/main/public/valentine-front.png)](https://www.canva.com/design/DAF8YUsH72U/C5oP-kxEq1m0_Lz7opCGyw/watch?utm_content=DAF8YUsH72U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
-View the deployment [here.](https://valentine.esther.studio/)  
+View the deployment [here.](https://valentine.esther.studio)  
 https://valentine.esther.studio/
 
 ## Credits
 
 Inspiration from [mewtru.](https://www.tiktok.com/@mewtru/video/7331131143112166698)
+
+Illustration by Esther Phang. © 2024 Esther Phang. All Rights Reserved.
