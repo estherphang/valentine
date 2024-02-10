@@ -41,14 +41,20 @@ function App() {
     <div className="container">
       {yes ? (
         <div className="content">
-          <img src="./public/val2.jpg" alt="Valentine 2" />
+          <img
+            src="https://raw.githubusercontent.com/estney/valentine/main/public/val2.jpg"
+            alt="Yay"
+          />
           <p>Yay! Let's celebrate on 14th and 18th Feb.</p>
           <p>You'll take care of the 14th.</p>
           <p>And I'll handle the 18th.</p>
         </div>
       ) : (
         <div className="content">
-          <img src="./public/val1.jpg" alt="Valentine 1" />
+          <img
+            src="https://raw.githubusercontent.com/estney/valentine/main/public/val1.jpg"
+            alt="Will you be my Valentine?"
+          />
           <p>Will you be my valentine?</p>
           <button
             onClick={() => setYes(true)}
