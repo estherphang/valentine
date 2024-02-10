@@ -51,10 +51,7 @@ function App() {
         </div>
       ) : (
         <div className="content">
-          <img
-            src="https://raw.githubusercontent.com/estney/valentine/main/public/val1.jpg"
-            alt="Will you be my Valentine?"
-          />
+          <img src="./val1.jpg" alt="Will you be my Valentine?" />
           <p>Will you be my valentine?</p>
           <button
             onClick={() => setYes(true)}
